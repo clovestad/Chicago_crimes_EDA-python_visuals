@@ -2,17 +2,17 @@
 Your task is to answer a series of questions about trends in crimes in Chicago for a reporter for the local newspaper.
 
 stakeholder questions:
--  1) Comparing Police Districts:
-Which district has the most crimes? Which has the least?
+-  Comparing Police Districts:
+  - Which district has the most crimes? Which has the least?
 
--  2) Crimes Across the Years:
-Is the total number of crimes increasing or decreasing across the years?
-Are there any individual crimes that are doing the opposite (e.g decreasing when overall crime is increasing or vice-versa)?
+- Comparing Months:
+  - What months have the most crime? What months have the least?
+  - Are there any individual crimes that do not follow this pattern? If so, which crimes?
 
+- Crimes Across the Years:
+  - Is the total number of crimes increasing or decreasing across the years?
+  - Are there any individual crimes that are doing the opposite (e.g decreasing when overall crime is increasing or vice-versa)?
 
-4) Comparing Months:
-What months have the most crime? What months have the least?
-Are there any individual crimes that do not follow this pattern? If so, which crimes?
 
 ## Q: Which district has the most crimes? Which has the least?
 
