@@ -34,7 +34,7 @@ stakeholder questions:
 
 
 ## A:
-- the three months with he most crime are July, August, and june in that order as related in the first visual.
+- the three months with the highest crime are July, August, and june in that order as related in the first visual.
 - Most other individual crimes tend to balance or increase with the exception of a handful(kidnapping,humantrafficking,liquor law violation,offensive involving children, and public peace violaiton )which all decrease during this "peak crimetime".
 
 
