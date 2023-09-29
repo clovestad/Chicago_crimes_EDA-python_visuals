@@ -2,7 +2,7 @@
 Your task is to answer a series of questions about trends in crimes in Chicago for a reporter for the local newspaper.
 
 stakeholder questions:
--  Comparing Police Districts:
+- Comparing Police Districts:
   - Which district has the most crimes? Which has the least?
 
 - Comparing Months:
